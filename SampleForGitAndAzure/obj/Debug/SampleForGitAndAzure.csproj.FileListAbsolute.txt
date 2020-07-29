@@ -1,0 +1,7 @@
+E:\LTI(.Net)\DevOps\SampleForGitAndAzure\SampleForGitAndAzure\bin\Debug\SampleForGitAndAzure.exe.config
+E:\LTI(.Net)\DevOps\SampleForGitAndAzure\SampleForGitAndAzure\bin\Debug\SampleForGitAndAzure.exe
+E:\LTI(.Net)\DevOps\SampleForGitAndAzure\SampleForGitAndAzure\bin\Debug\SampleForGitAndAzure.pdb
+E:\LTI(.Net)\DevOps\SampleForGitAndAzure\SampleForGitAndAzure\obj\Debug\SampleForGitAndAzure.csprojAssemblyReference.cache
+E:\LTI(.Net)\DevOps\SampleForGitAndAzure\SampleForGitAndAzure\obj\Debug\SampleForGitAndAzure.csproj.CoreCompileInputs.cache
+E:\LTI(.Net)\DevOps\SampleForGitAndAzure\SampleForGitAndAzure\obj\Debug\SampleForGitAndAzure.exe
+E:\LTI(.Net)\DevOps\SampleForGitAndAzure\SampleForGitAndAzure\obj\Debug\SampleForGitAndAzure.pdb

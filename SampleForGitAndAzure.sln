@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleForGitAndAzure", "SampleForGitAndAzure\SampleForGitAndAzure.csproj", "{3EF5350E-FF4D-4988-AD30-092CBCAC4B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF5350E-FF4D-4988-AD30-092CBCAC4B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF5350E-FF4D-4988-AD30-092CBCAC4B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF5350E-FF4D-4988-AD30-092CBCAC4B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF5350E-FF4D-4988-AD30-092CBCAC4B54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EAD2BFC-A4A8-4910-93C1-43AC4F92C315}
+	EndGlobalSection
+EndGlobal
